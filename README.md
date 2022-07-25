@@ -1,4 +1,4 @@
-# ulbi_image
+# vue-gallery
 
 ## Project setup
 ```
